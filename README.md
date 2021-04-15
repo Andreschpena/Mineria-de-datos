@@ -15,3 +15,6 @@
 [Calificaciones Mini Exámenes](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Calificacion_Metricas-de-Evaluacion_Equipo6.pdf)
 
 [Mapa Mental II](https://github.com/Andreschpena/Mineria-de-datos/blob/main/MapaMental_2_1941534.pdf)
+
+[Avance PIA II](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo6.ipynb)
+

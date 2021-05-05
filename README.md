@@ -19,5 +19,5 @@
 [Avance PIA II](https://github.com/Emilio741/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo6.ipynb)
 
 ## Fase 3
-[Poster](https://github.com/Emilio741/Mineria-de-Datos/blob/main/PIA_002_Equipo6.pdf)
+[Póster](https://github.com/Emilio741/Mineria-de-Datos/blob/main/PIA_002_Equipo6.pdf)
 
